@@ -1,6 +1,7 @@
-<h1 align="center">Hi 👋, I'm Simone</h1>
-<h3 align="center">I am a backend developer based in Berlin, Germany</h3>
+<h3>Hi 👋, I'm Simone</h3>
+<h3>I am a backend developer based in Berlin, Germany</h3>
 
+I am a software engineer with a background in 3D animation, skilled in Ruby on Rails, JavaScript, HTML, and CSS.
 - 📫 How to reach me **simonminekoza@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
