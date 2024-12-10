@@ -1,7 +1,9 @@
 <h3>Hi 👋, I'm Simone</h3>
 <h3>I am a backend developer based in Berlin, Germany</h3>
 
-I am a software engineer with a background in 3D animation, skilled in Ruby on Rails, JavaScript, HTML, and CSS.
+I am a software developer with a background in 3D animation, skilled in Ruby on Rails, JavaScript, HTML, and CSS.
+I am a based in Berlin, Germany
+
 - 📫 How to reach me **simonminekoza@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
